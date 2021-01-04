@@ -1,6 +1,5 @@
 basic.showNumber(5)
 basic.pause(1000)
-basic.pause(1000)
 basic.showNumber(4)
 basic.pause(1000)
 basic.showNumber(3)
